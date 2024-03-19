@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> Visitor count<br>
+<img src="https://profile-counter.glitch.me/khyatikasundra/count.svg"/>
+</p>
 <a href=" https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khyatikasundra&theme=dark" alt="GitHub Streak" /></a>
